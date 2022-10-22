@@ -58,6 +58,8 @@ disqusShortname = "https-hugo-tania-netlify-app"
 [[menu.header]]
   name = "Articles"
   url = "/articles/"
+  weekly = "weekly"
+  url = "/weekly/"
 [[menu.footer]]
     name = "RSS"
     url = "/index.xml"

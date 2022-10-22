@@ -65,6 +65,8 @@ menu:
   header:
     - name: Articles
       url: "/articles/"
+    - name: Weekly
+      url: "/weekly/"
   footer:
     - name: RSS
       url: "/index.xml"
